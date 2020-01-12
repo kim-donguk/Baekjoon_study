@@ -1,3 +1,5 @@
+# 4673번 문제
+# 셀프 넘버
 def number(num):
     f_num = num
     if(num >= 10000):
